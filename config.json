@@ -3,6 +3,7 @@
   "latitude": 43.3506,
   "longitude": 46.0953,
   "method": 14,
+  "school": 0,
   "hijri_offset": 1,
   "offsets": {
     "Fajr": 11,
@@ -11,5 +12,11 @@
     "Asr": 22,
     "Maghrib": 5,
     "Isha": 14
-  }
+  },
+  "position": {
+    "top": 80,
+    "left": 40
+  },
+  "layer": "bottom",
+  "theme": "auto"
 }
