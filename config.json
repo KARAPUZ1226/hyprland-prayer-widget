@@ -1,0 +1,15 @@
+{
+  "city": "Гудермес",
+  "latitude": 43.3506,
+  "longitude": 46.0953,
+  "method": 14,
+  "hijri_offset": 1,
+  "offsets": {
+    "Fajr": 11,
+    "Sunrise": -2,
+    "Dhuhr": 51,
+    "Asr": 22,
+    "Maghrib": 5,
+    "Isha": 14
+  }
+}

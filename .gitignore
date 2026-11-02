@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+prayer_data.json
+.cache/
